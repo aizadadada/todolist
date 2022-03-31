@@ -1,0 +1,49 @@
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.list li {
+  border-radius: 5px;
+  border-left: 15px solid #f32ee9;
+  box-shadow: 2px -2px 5px 0 rgba(0, 0, 0, 0.2),
+    2px -2px 5px 0 rgba(0, 0, 0, 0.2), 2px 2px 5px 0 rgba(0, 0, 0, 0.2),
+    2px -2px 5px 0 rgba(0, 0, 0, 0.2);
+  font-size: 20px;
+  letter-spacing: 5px;
+}
+.list li:nth-child(2) {
+  border-left: 15px solid #e9fd30;
+}
+.list li:nth-child(3) {
+  border-left: 15px solid #37baf7;
+}
+.list li:nth-child(4) {
+  border-left: 15px solid #f73751;
+}
+.list li:nth-child(5) {
+  border-left: 15px solid #51ff2e;
+}
+.list li:nth-child(6) {
+  border-left: 15px solid #8449f3;
+}
+.list li:nth-child(7) {
+  border-left: 15px solid #f737a7;
+}
+.list li:nth-child(8) {
+  border-left: 15px solid #2fd157;
+}
+.list li:nth-child(9) {
+  border-left: 15px solid #f89e27;
+}
+/* .list li{
+    /* display: flex; */
+/* justify-content: flex-start; */
+/* } */
+/* .list button{ */
+/* display: flex; */
+/* flex-direction: row; */
+/* justify-content: flex-end ; */
+/* }  */

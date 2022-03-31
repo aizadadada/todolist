@@ -1,0 +1,12 @@
+.item{
+    margin-top: 15px;
+    /* margin-left: 0px; */
+    width: 650px;
+     display: flex;
+     justify-content: space-between;
+}
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
