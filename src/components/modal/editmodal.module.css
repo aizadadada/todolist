@@ -5,13 +5,10 @@
     border-radius: 10px;
     background-color: rgb(229, 242, 250);
     color: black;
-    /* display: flex; */
-    /* justify-content: space-around;   */
 }
 
 .h2{
     font-family: 'Marck Script', cursive !important;
-    /* font-family: "Rubik", sans-serif; */
     font-style: italic;
     font-size: 36px;
     font-weight: 500;

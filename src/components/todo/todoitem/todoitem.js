@@ -3,7 +3,6 @@ import DeleteOutlineIcon from "@mui/icons-material/DeleteOutline";
 import { IconButton } from "@mui/material";
 import EditOutlinedIcon from "@mui/icons-material/EditOutlined";
 import classes from "./todoitem.module.css";
-import BasicModal from "../../modal/editModal";
 
 const TodoItem = ({ todo, deleteTask, onEditClick }) => {
   return (
